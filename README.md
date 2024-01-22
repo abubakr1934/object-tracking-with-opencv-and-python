@@ -11,6 +11,9 @@ Video Input: The system is designed to work with standard video formats, making 
 
 Visualization: The project includes visualization tools to draw bounding boxes around detected cars, providing a clear representation of the object detection process.
 
+![image](https://github.com/abubakr1934/object-tracking-with-opencv-and-python/assets/115393179/6ef95701-b5d3-4b8d-a431-79dd609d2c2f)
+
+
 **Dependencies**
 Make sure you have the following dependencies installed before running the project:
 
